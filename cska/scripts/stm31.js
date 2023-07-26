@@ -1,4 +1,4 @@
-// Ver: 4.4.40517
+﻿// Ver: 4.4.40517
 if(typeof(st_js)=="undefined"){
 stAHCM=0;// 0
 stAHWS=1;// 1
