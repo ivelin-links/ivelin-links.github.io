@@ -1,0 +1,61 @@
+.leftshad {
+	background-attachment: fixed;
+	background-image: url(images/leftshad.gif);
+	background-repeat: repeat;
+	background-position: right top;
+	background-color: #CCCCCC;
+}
+.rightshad {
+	background-attachment: fixed;
+	background-image: url(images/rightshad.gif);
+	background-repeat: repeat;
+	background-position: center top;
+	background-color: #CCCCCC;
+}
+.backg {
+	background-image: url(images/leftnavtile.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+	list-style-image: none;
+
+
+}
+
+.required {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.toptile {
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-position: center top;
+	background-color: #CCCCCC;
+
+}
+.WHITETEXT {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.tabletext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	line-height: normal;
+
+}
+.hypersmalltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 6px;
+}
+.picturetext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
